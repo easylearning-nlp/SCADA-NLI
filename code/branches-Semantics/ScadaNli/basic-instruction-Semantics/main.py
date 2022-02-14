@@ -1,6 +1,6 @@
 '''
 主函数
-@author：HaoyuPan
+@author：HaoWu
 Date：2019年10月21日17:53:58
 '''
 import webbrowser
